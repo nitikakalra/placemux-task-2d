@@ -1,0 +1,25 @@
+{
+    "candidate_id": 49119887,
+    "job_id": 3895274480,
+    "match_score": 50.0,
+    "explanation": {
+        "summary": "The candidate achieved 50.0% compatibility. The score is calculated using skill similarity, experience, education and location factors.",
+        "matched_skills": [
+            "communication"
+        ],
+        "missing_skills": [
+            "project management"
+        ],
+        "score_breakdown": {
+            "skill_similarity": 50.0,
+            "experience_match": 0,
+            "education_match": 0,
+            "location_match": 0
+        },
+        "recommendation": "Moderate Match. Candidate should be reviewed.",
+        "shortlisting_decision": {
+            "status": "Review Required",
+            "reason": "Candidate has partial skill alignment and should be reviewed."
+        }
+    }
+}

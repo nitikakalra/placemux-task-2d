@@ -1,0 +1,23 @@
+{
+    "candidate_id": 81508860,
+    "job_id": 3903806888,
+    "match_score": 100.0,
+    "explanation": {
+        "summary": "The candidate achieved 100.0% compatibility. The score is calculated using skill similarity, experience, education and location factors.",
+        "matched_skills": [
+            "communication"
+        ],
+        "missing_skills": [],
+        "score_breakdown": {
+            "skill_similarity": 100.0,
+            "experience_match": 0,
+            "education_match": 0,
+            "location_match": 0
+        },
+        "recommendation": "Strong Match. Candidate is suitable for shortlisting.",
+        "shortlisting_decision": {
+            "status": "Shortlisted",
+            "reason": "Candidate meets required skill alignment."
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "precision": 1.0,
+    "recall": 1.0,
+    "false_positive_rate": 0,
+    "validation_samples": 200
+}

@@ -1,0 +1,20 @@
+{
+    "task": "Phase 2 Task 4 - Match Explainability",
+    "dataset": {
+        "jobs": 1167,
+        "resumes": 2484
+    },
+    "baseline_score": 50.0,
+    "metrics": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "false_positive_rate": 0,
+        "validation_samples": 200
+    },
+    "explainability": [
+        "matched_skills",
+        "missing_skills",
+        "match_score",
+        "recommendation"
+    ]
+}

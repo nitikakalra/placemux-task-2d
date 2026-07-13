@@ -1,0 +1,42 @@
+[
+    {
+        "candidate_id": 22323967,
+        "match_score": 100.0,
+        "matched_skills": [
+            "communication"
+        ],
+        "missing_skills": []
+    },
+    {
+        "candidate_id": 27018550,
+        "match_score": 100.0,
+        "matched_skills": [
+            "communication"
+        ],
+        "missing_skills": []
+    },
+    {
+        "candidate_id": 15375009,
+        "match_score": 100.0,
+        "matched_skills": [
+            "communication"
+        ],
+        "missing_skills": []
+    },
+    {
+        "candidate_id": 11847784,
+        "match_score": 100.0,
+        "matched_skills": [
+            "communication"
+        ],
+        "missing_skills": []
+    },
+    {
+        "candidate_id": 29149998,
+        "match_score": 100.0,
+        "matched_skills": [
+            "communication"
+        ],
+        "missing_skills": []
+    }
+]
