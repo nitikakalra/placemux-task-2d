@@ -1,41 +1,56 @@
 [
     {
-        "candidate_id": 22323967,
+        "candidate_id": 23510685,
         "match_score": 100.0,
         "matched_skills": [
-            "communication"
+            "communication",
+            "project management",
+            "data analysis",
+            "leadership"
         ],
         "missing_skills": []
     },
     {
-        "candidate_id": 27018550,
+        "candidate_id": 17555081,
         "match_score": 100.0,
         "matched_skills": [
-            "communication"
+            "communication",
+            "project management",
+            "data analysis",
+            "leadership"
         ],
         "missing_skills": []
     },
     {
-        "candidate_id": 15375009,
+        "candidate_id": 16899268,
         "match_score": 100.0,
         "matched_skills": [
-            "communication"
+            "communication",
+            "project management",
+            "data analysis",
+            "leadership"
         ],
         "missing_skills": []
     },
     {
-        "candidate_id": 11847784,
+        "candidate_id": 27536013,
         "match_score": 100.0,
         "matched_skills": [
-            "communication"
+            "communication",
+            "project management",
+            "data analysis",
+            "leadership"
         ],
         "missing_skills": []
     },
     {
-        "candidate_id": 29149998,
+        "candidate_id": 29075857,
         "match_score": 100.0,
         "matched_skills": [
-            "communication"
+            "communication",
+            "project management",
+            "data analysis",
+            "leadership"
         ],
         "missing_skills": []
     }

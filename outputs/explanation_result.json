@@ -1,23 +1,27 @@
 {
-    "candidate_id": 81508860,
-    "job_id": 3903806888,
-    "match_score": 100.0,
+    "candidate_id": 69487178,
+    "job_id": 3903447802,
+    "match_score": 50.0,
     "explanation": {
-        "summary": "The candidate achieved 100.0% compatibility. The score is calculated using skill similarity, experience, education and location factors.",
+        "summary": "The candidate achieved 50.0% compatibility. The score is calculated using skill similarity, experience, education and location factors.",
         "matched_skills": [
-            "communication"
+            "communication",
+            "project management"
         ],
-        "missing_skills": [],
+        "missing_skills": [
+            "data analysis",
+            "leadership"
+        ],
         "score_breakdown": {
-            "skill_similarity": 100.0,
+            "skill_similarity": 50.0,
             "experience_match": 0,
             "education_match": 0,
             "location_match": 0
         },
-        "recommendation": "Strong Match. Candidate is suitable for shortlisting.",
+        "recommendation": "Moderate Match. Candidate should be reviewed.",
         "shortlisting_decision": {
-            "status": "Shortlisted",
-            "reason": "Candidate meets required skill alignment."
+            "status": "Review Required",
+            "reason": "Candidate has partial skill alignment and should be reviewed."
         }
     }
 }

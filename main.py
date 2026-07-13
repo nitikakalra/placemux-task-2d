@@ -275,19 +275,19 @@ print(edge_response)
 
 save_json(
     final_result,
-    "explanation_result.json"
+    "outputs/explanation_result.json"
 )
 
 
 save_json(
     shortlisted_candidates,
-    "shortlist.json"
+    "outputs/shortlist.json"
 )
 
 
 save_json(
     metrics,
-    "metrics.json"
+    "outputs/metrics.json"
 )
 
 
